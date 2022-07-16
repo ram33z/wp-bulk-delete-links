@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     WP Bulk Delete Links
- * Plugin URI:      https://github.com/ram33z/wp-bullk-delete-links
+ * Plugin URI:      https://github.com/ram33z/wp-bulk-delete-links
  * Description:     Wordpress plugin to Delete posts matching links from a CSV file.
  * Author:          Rameez Joya
  * Author URI:      https://github.com/ram33z/
